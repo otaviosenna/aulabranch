@@ -3,6 +3,17 @@ public class Main {
         
         
         //Arquivo main pra gente trabalhar :) 
+
+        0) Pergunta o tipo de item
+        
+        1) Direciona o cadastro 
+        
+        2) Faz o cadastro
+        
+        3) Imprime a lista 
+        
+        -------------------
+        
         
         1) Cadastro comum (idUnica, nome, dataDeCompra, listaDeAutores, tipoDeItem)
         
