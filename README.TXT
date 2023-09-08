@@ -1,7 +1,8 @@
 public class Main {
     public static void main(String[] args) {
         
-        
+        oi 
+
         //Arquivo main pra gente trabalhar :) 
         
         1) Cadastro comum (idUnica, nome, dataDeCompra, listaDeAutores, tipoDeItem)
