@@ -4,6 +4,8 @@ public class Main {
         
         //Arquivo main pra gente trabalhar :) 
 
+        //Comecem uma branch propria(git checkout -b 'nomedabranch') e façam um arquivo 'Main.java' na raiz do projeto para codar
+
         0) Pergunta o tipo de item
         
         1) Direciona o cadastro 
