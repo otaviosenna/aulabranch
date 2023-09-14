@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=CD
+comment1.params=id\ name\ acquisitionDate\ authors\ genre\ tracks
+comment1.target=CD(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.util.List,\ java.lang.String,\ java.util.List)
+numComments=2
